@@ -1,0 +1,8 @@
+name = "sylapberd07"
+main = "src/worker.ts"
+compatibility_date = "2024-05-29"
+compatibility_flags = ["nodejs_compat"]
+
+kv_namespaces = [
+  { binding = "settings", id = "59f702b29610465f950c27fed831f559" }
+]
